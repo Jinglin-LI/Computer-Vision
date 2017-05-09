@@ -1,0 +1,7 @@
+﻿  Proj1b_4th.cpp
+d:\cs software\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\cs software\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\cs software\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\cs software\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Proj1b_4th.vcxproj -> E:\CS\Visual Studio\Proj1b_4th\x64\Debug\Proj1b_4th.exe
+  Proj1b_4th.vcxproj -> E:\CS\Visual Studio\Proj1b_4th\x64\Debug\Proj1b_4th.pdb (Full PDB)
